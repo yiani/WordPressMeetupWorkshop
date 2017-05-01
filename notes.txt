@@ -1,0 +1,4 @@
+This is my notes file for Git. I am learning Git to version control my work.
+
+I never knew about this really but now I do.
+
